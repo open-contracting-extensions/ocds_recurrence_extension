@@ -6,7 +6,7 @@
     "en": "Adds fields for information on the recurrence of the contracting process."
   },
   "documentationUrl": {
-    "en": "https://github.com/open-contracting/ocds_recurrence_extension"
+    "en": "https://github.com/open-contracting-extensions/ocds_recurrence_extension"
   },
   "compatibility": [
     "1.0",
