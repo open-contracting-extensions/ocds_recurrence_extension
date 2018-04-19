@@ -1,0 +1,48 @@
+{
+  "definitions": {
+    "Recurrence": {
+      "title": "Recurrence",
+      "description": "Information on the recurrence of the contracting process.",
+      "type": "object",
+      "properties": {
+        "dates": {
+          "title": "Estimated dates",
+          "description": "An estimate of the timing of subsequent initiations of contracting processes (e.g. notices of intended procurement).",
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/definitions/Period"
+          }
+        },
+        "description": {
+          "title": "Further information",
+          "description": "Any further information on the recurrence of the contracting process.",
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "Tender": {
+      "properties": {
+        "recurrence": {
+          "title": "Recurrence",
+          "description": "Information on the recurrence of the contracting process.",
+          "$ref": "#/definitions/Recurrence"
+        }
+      }
+    },
+    "Lot": {
+      "properties": {
+        "recurrence": {
+          "title": "Recurrence",
+          "description": "Information on the recurrence of the lot.",
+          "$ref": "#/definitions/Recurrence"
+        }
+      }
+    }
+  }
+}

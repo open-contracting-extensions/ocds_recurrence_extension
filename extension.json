@@ -1,0 +1,15 @@
+{
+  "name": {
+    "en": "Recurring contracts"
+  },
+  "description": {
+    "en": "Adds fields for information on the recurrence of the contracting process."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/open-contracting/ocds_recurrence_extension"
+  },
+  "compatibility": [
+    "1.0",
+    "1.1"
+  ]
+}
