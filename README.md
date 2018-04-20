@@ -4,7 +4,7 @@ This extension adds fields for information on the recurrence of the contracting 
 
 ## Usage
 
-This field should be used if, for example, another procurement procedure or qualification system for the same contract matter is likely to be re-launched, or re-established, in the foreseeable future. Note that this does not mean awarding multiple contracts within a single qualification system, framework agreement, or dynamic purchasing system. In these cases, the field should not be used.
+These fields should be used if, for example, another procurement procedure or qualification system for the same contract matter is likely to be re-launched, or re-established, in the foreseeable future. Note that this does not mean awarding multiple contracts within a single qualification system, framework agreement, or dynamic purchasing system; in these cases, these fields should not be used.
 
 This information can be useful, for example, to companies deciding whether to invest into machinery necessary for a particular contract. With this information, they know that there will likely be an opportunity to win similar contracts in future years, which may make the investment more worthwhile.¹
 
