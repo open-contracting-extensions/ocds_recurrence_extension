@@ -16,10 +16,22 @@ The European Union is a [party](https://www.wto.org/english/tratop_e/gproc_e/mem
 
 ## Example
 
-```eval_rst
-.. jsoninclude:: docs/examples/example.json
-   :jsonpointer: 
-   :expand: 
+```json
+{
+  "tender": {
+    "recurrence": {
+      "dates": [
+        {
+          "startDate": "2020-01-01"
+        },
+        {
+          "startDate": "2021-01-01"
+        }
+      ],
+      "description": "The duration of this contract and recurrent contracts will not exceed three years."
+    }
+  }
+}
 ```
 
 ## Footnotes
