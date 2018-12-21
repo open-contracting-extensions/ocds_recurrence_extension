@@ -14,7 +14,8 @@
           ],
           "items": {
             "$ref": "#/definitions/Period"
-          }
+          },
+          "wholeListMerge": true
         },
         "description": {
           "title": "Further information",
