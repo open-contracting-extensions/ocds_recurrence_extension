@@ -8,13 +8,11 @@
         "dates": {
           "title": "Estimated dates",
           "description": "An estimate of the timing of subsequent initiations of contracting processes (e.g. notices of intended procurement).",
-          "type": [
-            "array",
-            "null"
-          ],
+          "type": "array",
           "items": {
             "$ref": "#/definitions/Period"
-          }
+          },
+          "wholeListMerge": true
         },
         "description": {
           "title": "Further information",
