@@ -22,10 +22,10 @@ The European Union is a [party](https://www.wto.org/english/tratop_e/gproc_e/mem
     "recurrence": {
       "dates": [
         {
-          "startDate": "2020-01-01"
+          "startDate": "2020-01-01T00:00:00Z"
         },
         {
-          "startDate": "2021-01-01"
+          "startDate": "2021-01-01T00:00:00Z"
         }
       ],
       "description": "The duration of this contract and recurrent contracts will not exceed three years."
