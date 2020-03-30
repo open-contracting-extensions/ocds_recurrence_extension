@@ -44,4 +44,4 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
-The original draft extension can be found [here](https://github.com/open-contracting-archive/trade/tree/master/draft_extensions/lot_RecurrentProcurement)
+The original draft extension can be found in the [archived trade profile repository](https://github.com/open-contracting-archive/trade/tree/master/draft_extensions/lot_RecurrentProcurement)
