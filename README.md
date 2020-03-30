@@ -41,3 +41,7 @@ The European Union is a [party](https://www.wto.org/english/tratop_e/gproc_e/mem
 ## Issues
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
+
+## Changelog
+
+The original draft extension can be found in the [archived trade profile repository](https://github.com/open-contracting-archive/trade/tree/master/draft_extensions/lot_RecurrentProcurement)
