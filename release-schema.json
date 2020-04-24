@@ -13,7 +13,8 @@
             "$ref": "#/definitions/Period"
           },
           "wholeListMerge": true,
-          "uniqueItems": true
+          "uniqueItems": true,
+          "minItems": 1
         },
         "description": {
           "title": "Further information",
@@ -21,9 +22,11 @@
           "type": [
             "string",
             "null"
-          ]
+          ],
+          "minLength": 1
         }
-      }
+      },
+      "minProperties": 1
     },
     "Tender": {
       "properties": {

@@ -44,4 +44,8 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
+### 2020-04-24
+
+* Add `minProperties`, `minItems` and/or `minLength` properties.
+
 The original draft extension can be found in the [archived trade profile repository](https://github.com/open-contracting-archive/trade/tree/master/draft_extensions/lot_RecurrentProcurement)
