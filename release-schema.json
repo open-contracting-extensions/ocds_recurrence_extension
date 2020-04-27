@@ -34,6 +34,14 @@
           "title": "Recurrence",
           "description": "Information on the recurrence of the contracting process.",
           "$ref": "#/definitions/Recurrence"
+        },
+        "hasRecurrence": {
+          "title": "Has recurrence",
+          "description": "Whether the contracting process is recurrent.",
+          "type": [
+            "boolean",
+            "null"
+          ]
         }
       }
     },
@@ -43,6 +51,14 @@
           "title": "Recurrence",
           "description": "Information on the recurrence of the lot.",
           "$ref": "#/definitions/Recurrence"
+        },
+        "hasRecurrence": {
+          "title": "Has recurrence",
+          "description": "Whether the contracting process is recurrent.",
+          "type": [
+            "boolean",
+            "null"
+          ]
         }
       }
     }
