@@ -14,7 +14,7 @@ The [Revised Agreement on Government Procurement](https://www.wto.org/english/do
 
 The European Union is a [party](https://www.wto.org/english/tratop_e/gproc_e/memobs_e.htm) to the GPA, and as such its [Directive 2014/24/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.094.01.0065.01.ENG) (Public contracts — setting out clear ground rules) includes: "Part C: Information to be included in contract notices … 27. In the case of recurrent procurement, estimated timing for further notices to be published."
 
-This extension's fields correspond to [eForms BT-94 (Recurrence) and BT-95 (Recurrence Description)](https://github.com/eForms/eForms).
+This extension's fields correspond to [eForms BT-94 (Recurrence) and BT-95 (Recurrence Description)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/).
 
 ## Example
 
